@@ -17,7 +17,7 @@ This project implements a deep learning pipeline for **traffic light detection**
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/username/traffic-light-detection.git
+git clone https://github.com/Myriamtouiltraffic-light-detection.git
 cd traffic-light-detection
 pip install -r requirements.txt
 ```
