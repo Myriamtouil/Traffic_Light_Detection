@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+*.pth
+*.h5
+data/*
+!data/sample/
+output/*
+!output/sample_output.png
